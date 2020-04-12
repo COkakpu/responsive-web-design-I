@@ -359,9 +359,54 @@ header{
         flex-direction: column;
         width: 100%;
     }
-    div{
-        width: 100%;
-        text-align: center;
-        margin: 0 auto;
-    }
+  .box1 {
+      box-sizing: border-box;
+      padding-left: 19px;
+      width: 100%;
+      padding-top: 120px;
+      
+      
+  }
+  .box2 {
+    box-sizing: border-box;
+    padding-left: 19px;
+    width: 100%;
+    margin-bottom: 120px;
+}
+.box3 {
+    box-sizing: border-box;
+    padding-left: 19px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+.box4 {
+    box-sizing: border-box;
+    padding-left: 19px;
+    width: 100%;
+    margin-bottom: 30px;
+    
+}
+.box5 {
+    box-sizing: border-box;
+    padding-left: 19px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+.mainContent div h3{
+    font-weight: 800;
+    text-align: left;
+    margin-bottom: 30px;
+}
+.lastBox div h3{
+    font-weight: 800;
+    text-align: left;
+}
+.middle-img{
+    margin-top: 14%;
+    box-sizing: border-box;
+    width: 100%;
+    margin-left: 0px;
+}
+   
+      
 }
